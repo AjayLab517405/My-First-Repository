@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="g8LEz3XJkEePUVMPoNhg-g" Reference="W0YiWvZdBEij-2G_fDY2tg/Djg5D3IRwECQUq2LEzBuJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="botsdna.com/vitrualplots" CVScreenId="306b886c-c61e-4a40-874b-cc10d0614d4e" CvTextArgument="[Str_BuyerMobile]" DesignTimeRectangle="291, 472, 9, 9" DesignTimeScaleFactor="0.6666666865348816" ElementType="RadioButton" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='radio' tag='INPUT' class='' aaname='' /&gt;" Guid="3bddce4b-0c9d-42d9-8965-a8467bf9e304" ScopeSelectorArgument="&lt;html app='chrome.exe' title='botsdna.com/vitrualplots/' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="306b886c-c61e-4a40-874b-cc10d0614d4e" CvTextArea="877, 469, 62, 11" CvTextArgument="[Str_BuyerMobile]" CvType="Text" DesignTimeRectangle="873, 464, 212, 23" ElementType="Text" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' class='' tag='TD' aaname='{0}' check:innerText='{1}' /&gt;&quot;, Str_BuyerMobile, Str_BuyerMobile)]" Guid="5c585dd6-d20f-4fe1-a610-e02d1283fa20" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="580667b933d1803004f2938d6d00be11.png" xmlns="">0yNITaXJ7i0SLw-prSoCFeQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="Str_BuyerMobile" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

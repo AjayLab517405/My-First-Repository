@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gukUBoS02ka9uUgfJWDUUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="botsdna.com/vitrualplots" CVScreenId="392a6da0-6d06-4cc9-8086-1845640a90b4" CvElementArea="526, 527, 139, 19" CvType="InputBox" DesignTimeRectangle="527, 528, 136, 16" DesignTimeScaleFactor="0.800000011920929" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='text' tag='INPUT' class='' aaname='' /&gt;" Guid="fdac948c-e048-4a4b-84f1-461cc5b048e7" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='botsdna.com/vitrualplots/' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="392a6da0-6d06-4cc9-8086-1845640a90b4" CvTextArea="288, 528, 31, 16" CvTextArgument="Sqft :" CvType="Text" DesignTimeRectangle="283, 521, 238, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='' aaname=' Sqft :' check:innerText='Sqft :' /&gt;" Guid="b03b3260-700a-46ef-b913-a04b7e2b92d8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="aeb5078711f8717314968eb72d076bc8.png" xmlns="">0pCmJ-uegT0S9DWfptK8l2A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

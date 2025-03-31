@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sqft",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "s0tFCSKQjkOetNQi-KDO-A",
+  "Reference": "W0YiWvZdBEij-2G_fDY2tg/s0tFCSKQjkOetNQi-KDO-A",
+  "ParentRef": "W0YiWvZdBEij-2G_fDY2tg/AvZ4OTD5JEGRFiaPdEkU0g",
+  "Created": "2025-03-20T12:00:24.9054874Z",
+  "Updated": "2025-03-20T12:00:24.9054874Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

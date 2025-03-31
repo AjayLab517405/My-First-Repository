@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome botsdna.comvitrualplots",
+  "Type": "Screen",
+  "Id": "AvZ4OTD5JEGRFiaPdEkU0g",
+  "Reference": "W0YiWvZdBEij-2G_fDY2tg/AvZ4OTD5JEGRFiaPdEkU0g",
+  "ParentRef": "W0YiWvZdBEij-2G_fDY2tg/ZIqA1IMbdE20TV-zmPScpg",
+  "Created": "2025-03-20T10:58:34.2404939Z",
+  "Updated": "2025-03-20T10:58:34.2404939Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Booking Number",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "blv6uZCWBUSbvL5J7MEg9w",
+  "Reference": "W0YiWvZdBEij-2G_fDY2tg/blv6uZCWBUSbvL5J7MEg9w",
+  "ParentRef": "W0YiWvZdBEij-2G_fDY2tg/AvZ4OTD5JEGRFiaPdEkU0g",
+  "Created": "2025-03-20T12:03:02.9519615Z",
+  "Updated": "2025-03-20T12:03:02.9519615Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

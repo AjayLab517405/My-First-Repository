@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pycsa3VEOkqh-MYvKV8Psg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="botsdna.com/vitrualplots/Thanks.html" CVScreenId="4270f43b-7ea4-4ff9-bf8d-e31eba3956c9" CvTextArea="638, 530, 105, 22" CvType="AnyWordGroup" DesignTimeRectangle="14, 527, 1354, 30" DesignTimeScaleFactor="0.800000011920929" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='TransNo' tag='P' type='' class='' /&gt;" Guid="b8ef3526-d1de-4d4a-ac0f-c0578c73f18f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='botsdna.com/vitrualplots/Thanks.html' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4270f43b-7ea4-4ff9-bf8d-e31eba3956c9" CvTextArea="594, 474, 193, 28" CvTextArgument="Booking Number" CvType="Text" DesignTimeRectangle="594, 474, 193, 28" ElementType="Text" Guid="7fbc14a2-8062-4615-a64b-2c392026d355" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="35b39566d6c9d4b5155e6ff41cdcf44f.png" xmlns="">0PQF2wmxHxkq5zY7683Tl9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
